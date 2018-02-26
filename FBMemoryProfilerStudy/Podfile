@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+
+#只支持ios8以上
+#use_frameworks!
+target 'FBMemoryProfilerStudy' do
+
+pod "FBMemoryProfiler"
+
+end
